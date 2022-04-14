@@ -1,3 +1,6 @@
 testar git 
 
 Novi red ubacen
+
+Prebaceno sa drugim cmd
+
